@@ -72,10 +72,8 @@ Data covers the period January 2020 – December 2023 across the United States.
 
 
 👤 Author
-[Your Name]
-📧 [your.email@example.com]
-🔗 LinkedIn Profile
-🐙 GitHub Profile
+Mahmoud Ayman
+📧 mahmoudayman3665@gmail.com
 
 📄 License
 This project is licensed under the MIT License — feel free to use and adapt it.
